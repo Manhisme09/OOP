@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618501143 source:d:\oop\bai2haui\main.cpp
+	<iostream>
+	<iomanip>
+	<stdio.h>
+
